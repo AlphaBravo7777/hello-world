@@ -1,0 +1,23 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"draw_minimap_border": true,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
